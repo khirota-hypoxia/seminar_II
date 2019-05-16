@@ -91,7 +91,7 @@ https://www.atmarkit.co.jp/ait/articles/1810/12/news025.html
 
 ### 宿題
 
-**「かくかくしかじか」**の感想文を140字で書いて.txtとしてSlackの＃提出 チャネルにupしてください
+「かくかくしかじか」の感想文を140字で書いて".txt"としてSlackの＃提出 チャネルにupしてください
 
 
 
