@@ -50,7 +50,7 @@
 
 ### 2 コンピュータのfileについて理解する
 
-fileの形式
+**fileの形式**
 	拡張子
 	.docx
 	.doc
@@ -77,7 +77,7 @@ fileの名前
 
 
 
-fileのバージョン管理
+**fileのバージョン管理**
 
 
 
@@ -85,7 +85,7 @@ fileのバージョン管理
 
 https://www.appsupport.jp/category/drive/
 
-作業履歴のバックアップをとる方法を学ぶ
+### 4 作業履歴のバックアップをとる方法を学ぶ
 
 ​	Mac: Time Machine
 
