@@ -24,15 +24,15 @@
 
 #### ワープロ
 
-​	Mac: Pages, Microfoft Word
+​	Mac: Pages, Microsoft Word
 
-​	Windows10 :Microfoft Word
+​	Windows10 :Microsoft Word
 
 #### プレゼンテーション
 
-​	Mac: Keynote, Microfoft Powerpoint
+​	Mac: Keynote, Microsoft Powerpoint
 
-​	Windows10 :Microfoft Powerpoint
+​	Windows10 :Microsoft Powerpoint
 
 #### エディター
 
@@ -42,9 +42,9 @@
 
 
 
-​	Mac:メモ, Microfoft OneNote
+​	Mac:メモ, Microsoft OneNote
 
-​	Windows10 : Microfoft OneNote
+​	Windows10 : Micrsoft OneNote
 
 ​	
 
